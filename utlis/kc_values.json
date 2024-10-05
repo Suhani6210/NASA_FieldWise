@@ -1,0 +1,112 @@
+{
+    "Wheat": {
+        "Initial": 0.3,
+        "Mid-Stage": 1.15,
+        "Late": 0.4
+    },
+    "Corn": {
+        "Initial": 0.3,
+        "Mid-Stage": 1.20,
+        "Late": 0.6
+    },
+    "Rice": {
+        "Initial": 1.05,
+        "Mid-Stage": 1.20,
+        "Late": 0.8
+    },
+    "Cotton": {
+        "Initial": 0.35,
+        "Mid-Stage": 1.15,
+        "Late": 0.5
+    },
+    "Soybean": {
+        "Initial": 0.4,
+        "Mid-Stage": 1.15,
+        "Late": 0.5
+    },
+    "Alfalfa": {
+        "Initial": 0.4,
+        "Mid-Stage": 1.20,
+        "Late": 0.85
+    },
+    "Tomato": {
+        "Initial": 0.6,
+        "Mid-Stage": 1.15,
+        "Late": 0.7
+    },
+    "Sunflower": {
+        "Initial": 0.35,
+        "Mid-Stage": 1.00,
+        "Late": 0.6
+    },
+    "Potato": {
+        "Initial": 0.5,
+        "Mid-Stage": 1.10,
+        "Late": 0.75
+    },
+    "Grapes": {
+        "Initial": 0.3,
+        "Mid-Stage": 0.8,
+        "Late": 0.35
+    },
+    "Onion": {
+        "Initial": 0.6,
+        "Mid-Stage": 1.05,
+        "Late": 0.75
+    },
+    "Barley": {
+        "Initial": 0.3,
+        "Mid-Stage": 1.15,
+        "Late": 0.25
+    },
+    "Sugarcane": {
+        "Initial": 0.4,
+        "Mid-Stage": 1.20,
+        "Late": 0.75
+    },
+    "Peanuts": {
+        "Initial": 0.4,
+        "Mid-Stage": 1.10,
+        "Late": 0.5
+    },
+    "Carrot": {
+        "Initial": 0.7,
+        "Mid-Stage": 1.05,
+        "Late": 0.7
+    },
+    "Lettuce": {
+        "Initial": 0.7,
+        "Mid-Stage": 1.05,
+        "Late": 0.95
+    },
+    "Cabbage": {
+        "Initial": 0.7,
+        "Mid-Stage": 1.05,
+        "Late": 0.95
+    },
+    "Pepper": {
+        "Initial": 0.6,
+        "Mid-Stage": 1.10,
+        "Late": 0.9
+    },
+    "Cucumber": {
+        "Initial": 0.5,
+        "Mid-Stage": 1.05,
+        "Late": 0.75
+    },
+    "Melon": {
+        "Initial": 0.5,
+        "Mid-Stage": 1.05,
+        "Late": 0.8
+    },
+    "Apple": {
+        "Initial": 0.65,
+        "Mid-Stage": 1.05,
+        "Late": 0.7
+    },
+    "Banana": {
+        "Initial": 0.7,
+        "Mid-Stage": 1.10,
+        "Late": 0.75
+    }
+}

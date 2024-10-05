@@ -1,0 +1,9 @@
+streamlit
+requests
+leafmap
+folium
+sentinelhub
+matplotlib
+streamlit_folium
+shapely
+numpy
